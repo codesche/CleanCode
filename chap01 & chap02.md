@@ -1,9 +1,9 @@
 
 ## ○ 목차
-1. [나쁜 코드](1.-나쁜-코드)
-2. [클린 코드](2.-클린-코드)
-3. [의미 있는 이름 짓기](3.-의미-있는-이름-짓기)
-4. [Google Java Naming Guide](4.-google-java-naming-guide)
+1. [나쁜 코드](#1.-나쁜-코드)
+2. [클린 코드](#2.-클린-코드)
+3. [의미 있는 이름 짓기](#3.-의미-있는-이름-짓기)
+4. [Google Java Naming Guide](#4.-google-java-naming-guide)
 
 
 ## 1. 나쁜 코드
