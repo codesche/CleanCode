@@ -107,7 +107,7 @@ public class shinhanCardPaymentService implements CardPaymentService {
 
 ## 2. 간결한 함수 작성하기
 
-**복잡한 함수는 보기에도 길고 여러가지 기능이 섞여있어서 불편하게 느껴진다. **
+**복잡한 함수는 보기에도 길고 여러가지 기능이 섞여있어서 불편하게 느껴진다.**
 
 ```java
 public static String renderPageWithSetupsAndTeardowns(PageData pageData, boolean isSuite) throws Exception {
@@ -135,9 +135,7 @@ public static String renderPageWithSetupsAndTeardowns(PageData pageData, boolean
 }
 ```
 
-**한 가지만 하기(SRP), 변경에 닫게 만들기(OCP) :** 
-
-'계산도 하고, Money도 생성?
+**한 가지만 하기(SRP), 변경에 닫게 만들기(OCP) : 계산도 하고, Money도 생성?**
 
 ```java
 public Money calculatePay(Employee e) throws InvalidEmployeeType {
