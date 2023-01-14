@@ -5,5 +5,5 @@ Clean Code 책을 읽은 후 공부한 내용을 정리하기 위해 만든 저�
 
 ## 목차
 * [ch01 & ch02. 깨끗한 코드, 의미 있는 이름](https://github.com/codesche/CleanCode-study/blob/main/chap01%20%26%20chap02.md)
-* [ch03. 함수]()
+* [ch03. 함수](https://github.com/codesche/CleanCode-study/blob/main/chap03-%ED%95%A8%EC%88%98.md)
 
