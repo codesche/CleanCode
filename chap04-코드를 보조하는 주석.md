@@ -38,8 +38,10 @@ Pattern timeForamt = Pattern.compile("\\d*:\\d:\\d* \\w*, \\w* \\d* \\d*");
 for (int i = 0; i < 25000; i++) {
     SomeThread someThread = ThreadBuilder.builder().build();
 }
+```
 
 // 유저로부터 입력받을 값을 저장할 때 trim으로 공백제거 필요
+```java
 String userName = userNameInput.trim();
 ```
 
