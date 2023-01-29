@@ -40,8 +40,8 @@ for (int i = 0; i < 25000; i++) {
 }
 ```
 
-// 유저로부터 입력받을 값을 저장할 때 trim으로 공백제거 필요
 ```java
+// 유저로부터 입력받을 값을 저장할 때 trim으로 공백제거 필요
 String userName = userNameInput.trim();
 ```
 
