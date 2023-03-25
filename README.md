@@ -10,3 +10,4 @@ Clean Code 책을 읽은 후 공부한 내용을 정리하기 위해 만든 저�
 * [ch05. 형식 맞추기](https://github.com/codesche/CleanCode-study/blob/main/chap05-%ED%98%95%EC%8B%9D%20%EB%A7%9E%EC%B6%94%EA%B8%B0.md)
 * [ch06. 객체와 자료구조로 데이터 표현하기](https://github.com/codesche/CleanCode-study/blob/main/chap06-%EA%B0%9D%EC%B2%B4%EC%99%80%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 * [ch07. 오류 처리](https://github.com/codesche/CleanCode-study/blob/main/chap07-%EC%98%A4%EB%A5%98%20%EC%B2%98%EB%A6%AC.md)
+* [ch08. 경계](https://github.com/codesche/CleanCode-study/blob/main/chap08-%EA%B2%BD%EA%B3%84.md)
