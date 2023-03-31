@@ -14,3 +14,4 @@ Clean Code 책을 읽은 후 공부한 내용을 정리하기 위해 만든 저�
 * [ch09. 깨끗한 테스트 코드](https://github.com/codesche/CleanCode-study/blob/main/chap09-%EA%B9%A8%EB%81%97%ED%95%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BD%94%EB%93%9C.md)
 * [ch10. 클래스 잘 설계하기](https://github.com/codesche/CleanCode-study/blob/main/chap10-%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%9E%98%20%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0.md)
 * [ch11. 관심사 분리 패턴들](https://github.com/codesche/CleanCode-study/blob/main/chap11-%EA%B4%80%EC%8B%AC%EC%82%AC%20%EB%B6%84%EB%A6%AC%20%ED%8C%A8%ED%84%B4%EB%93%A4.md)
+* [ch12. 창발적 설계로 깔금한 코드 구현하기](https://github.com/codesche/CleanCode-study/blob/main/chap12-%EC%B0%BD%EB%B0%9C%EC%A0%81%20%EC%84%A4%EA%B3%84%EB%A1%9C%20%EA%B9%94%EB%81%94%ED%95%9C%20%EC%BD%94%EB%93%9C%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md)
