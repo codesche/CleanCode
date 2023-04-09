@@ -7,7 +7,7 @@
 
 ### 15장 Junit 들여다보기
 
-**세상에 완벽한 코드는 없다**
+**○ 세상에 완벽한 코드는 없다**
 
 ![image](https://user-images.githubusercontent.com/110509654/230765256-076b9ab1-b8ad-4675-ad78-6fd302286d1d.png)
 
@@ -18,7 +18,7 @@
 
 ### 16장 SerialDate 리팩토링
 
-**남의 코드를 비판하고, 내 코드의 비판을 듣는 건 편안하게 여겨야 할 활동이다**
+**○ 남의 코드를 비판하고, 내 코드의 비판을 듣는 건 편안하게 여겨야 할 활동이다**
 
 ![image](https://user-images.githubusercontent.com/110509654/230765343-d940cb60-cbe2-472d-a177-98d9e08a751d.png)
 
