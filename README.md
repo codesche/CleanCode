@@ -18,3 +18,4 @@ Clean Code 책을 읽은 후 공부한 내용을 정리하기 위해 만든 저�
 * [ch13. 동시성](https://github.com/codesche/CleanCode-study/blob/main/chap13-%EB%8F%99%EC%8B%9C%EC%84%B1.md)
 * [ch14. 점진적인 개선](https://github.com/codesche/CleanCode-study/blob/main/chap14-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9D%B8%20%EA%B0%9C%EC%84%A0.md)
 * [ch15 & ch16. 라이브러리 분석을 통해 코드를 바라보는 시각 기르기](https://github.com/codesche/CleanCode-study/blob/main/chap15%20%26%20chap16-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%86%B5%ED%95%B4%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94%20%EC%8B%9C%EA%B0%81%20%EA%B8%B0%EB%A5%B4%EA%B8%B0.md)
+* [ch17. 냄새와 휴리스틱](https://github.com/codesche/CleanCode-study/blob/main/chap17-%EB%83%84%EC%83%88%EC%99%80%20%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1.md)
